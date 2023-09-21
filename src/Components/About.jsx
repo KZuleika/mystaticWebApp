@@ -31,9 +31,9 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "C++/C# programming",
-  "Python programming",
-  "PLC programming",
+  "C++/C#",
+  "Python",
+  "PLC",
   "Spanish - Native",
   "English - Advanced",
   "French - Basic",
