@@ -24,19 +24,20 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Mechatronics Engineering student at Universidad Autónoma de Yucatán. I enjoy creating unique and simplistic user interfaces in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "C++/C# programming",
+  "Python programming",
+  "PLC programming",
+  "Spanish - Native",
+  "English - Advanced",
+  "French - Basic",
+  "Mexican Sign Language - Basic",
 ];
 
 /**
