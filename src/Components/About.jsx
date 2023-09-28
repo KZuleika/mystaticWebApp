@@ -33,6 +33,7 @@ const description =
 const skillsList = [
   "C++/C#",
   "Python",
+  "SQLite",
   "PLC",
   "Spanish - Native",
   "English - Advanced",
