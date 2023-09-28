@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Mechatronics Engineering student at Universidad Autónoma de Yucatán. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Mechatronics Engineering student at Universidad Autónoma de Yucatán. I consider myself a person with initiative and who enjoys sharing my knowledge with my peers.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
