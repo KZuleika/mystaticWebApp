@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Mechatronics Engineering student at Universidad Autónoma de Yucatán. I consider myself a person with initiative and who enjoys sharing my knowledge with my peers.";
+  "I'm a Mechatronics Engineering student at Universidad Autónoma de Yucatán. I am excited to develop creative and technical skills.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -47,7 +47,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about technology and collaborative learning. Member of Microsoft Learn Student Ambassadors program, committed to improving the accessibility of technology to the community.";
 
 const About = () => {
   return (

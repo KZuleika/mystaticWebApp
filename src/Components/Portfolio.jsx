@@ -43,16 +43,16 @@ const projectList = [
     url: "https://github.com/KZuleika/virtual-paint-cv/",
   },
   {
-    title: "My Resume Site",
+    title: "Vibration Machine",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Hardware and software integration, developed an interactive interface with WPF with real-time data graphing.",
+    url: "https://github.com/KZuleika/VibrationMachine",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Faculty Forms: School Control System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Didactic application of a school control system with database management with SQLite and Windows Forms interface.",
+    url: "https://github.com/KZuleika/FacultyForms",
   },
 ];
 
